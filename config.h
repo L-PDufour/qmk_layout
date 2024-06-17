@@ -24,13 +24,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* Select hand configuration */
 #define SPLIT_USB_DETECT
+#define OLED_DRIVER_ENABLE
 
 // #define EE_HANDS
 
-#define NO_ACTION_MACRO
-#define NO_ACTION_FUNCTION
+// #define NO_ACTION_MACRO
+// #define NO_ACTION_FUNCTION
 
-#define OLED_DISABLE_TIMEOUT
+// #define OLED_DISABLE_TIMEOUT
 
 #define TAPPING_TERM 200
 
